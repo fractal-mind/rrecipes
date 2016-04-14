@@ -6,7 +6,7 @@ What's Included:
   * This environment is to be used with ES6.
   * Set up with basic loader as well as a React loader.
 * NPM
-  * Scripts: 'dev` runs your webpack-dev-server in hot mode, `commit` has webpack generate a bundle.js, `Git add` all changes to the staging area, and `Git commit` all changes.
+  * Scripts: `dev` runs your webpack-dev-server in hot mode, `commit` has webpack generate a bundle.js, `git add` all changes to the staging area, and `git commit` all changes.
   * Remember to change pertinent information in package.json!
 * Git
   * Remember to go into ./.git/config and change the url to whatever it should be
