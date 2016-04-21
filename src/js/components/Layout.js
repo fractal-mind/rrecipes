@@ -3,6 +3,7 @@ import React from 'react';
 import Starter from './Starter';
 
 class Layout extends React.Component{
+
   render(){
     return(
       <div>
@@ -11,5 +12,6 @@ class Layout extends React.Component{
     )
   }
 };
+
 
 export default Layout;

@@ -62,7 +62,9 @@
 
 	__webpack_require__(161);
 
-	_reactDom2.default.render(_react2.default.createElement(_Layout2.default, null), document.getElementById('app'));
+	var mountNode = document.getElementById('app');
+
+	_reactDom2.default.render(_react2.default.createElement(_Layout2.default, null), mountNode);
 
 /***/ },
 /* 1 */
